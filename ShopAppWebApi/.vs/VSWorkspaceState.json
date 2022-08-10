@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\shopapp.webapi",
+    "\\shopapp.webapi\\Controllers",
+    "\\shopapp.webapi\\Properties",
+    "\\shopapp.webui\\Views",
+    "\\shopapp.webui\\Views\\Home"
+  ],
+  "SelectedNode": "\\shopapp.webapi\\Controllers\\ProductsController.cs",
+  "PreviewInSolutionExplorer": false
+}
